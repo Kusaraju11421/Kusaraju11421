@@ -36,11 +36,3 @@ I’m **Kusaraju**, a final-year 🎓 **B.Tech student in Artificial Intelligenc
 
 ---
 
-If you want next 🔥
-
-* 🏆 Add **LeetCode / Kaggle badges**
-* 📌 Ultra-minimal **one-screen README**
-* 🎯 Version tuned **only for ML/Data internships**
-
-Just tell me 😄
-
