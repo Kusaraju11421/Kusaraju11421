@@ -1,12 +1,13 @@
 <!-- ===================== CUSTOM BANNER ===================== -->
 <!-- ===================== CUSTOM BANNER ===================== -->
 <p align="center">
-  <img 
+  <img
     src="https://i.ibb.co/bgqGM8X9/your-image.png"
-    alt="Kusaraju AIML & Analytics Banner"
-    style="max-width:100%; height:auto;"
+    alt="Kusaraju | AIML & Analytics"
+    style="width:100%; max-width:100%; height:auto;"
   />
 </p>
+
 
 ---
 
@@ -21,8 +22,8 @@ I’m **Kusaraju**, a final-year 🎓 **B.Tech student specializing in Artificia
 
 ## 🐍 Primary Language
 
-- ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow)
-- – used for data preprocessing, exploratory data analysis, machine learning models, deep learning workflows, and analytics projects.
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow)
+ used for data preprocessing, exploratory data analysis, machine learning models, deep learning workflows, and analytics projects.
 
 
 
