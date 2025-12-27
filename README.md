@@ -23,7 +23,8 @@ I’m **Kusaraju**, a final-year 🎓 **B.Tech student specializing in Artificia
 ## 🐍 Primary Language
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow)
- used for data preprocessing, exploratory data analysis, machine learning models, deep learning workflows, and analytics projects.
+ 
+used for data preprocessing, exploratory data analysis, machine learning models, deep learning workflows, and analytics projects.
 
 
 
