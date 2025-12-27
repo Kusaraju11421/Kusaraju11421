@@ -4,7 +4,7 @@
   <img 
     src="https://i.ibb.co/bgqGM8X9/your-image.png"
     alt="Kusaraju AIML & Analytics Banner"
-    width="100%"
+    style="max-width:100%; height:auto;"
   />
 </p>
 
