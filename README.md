@@ -1,7 +1,11 @@
 <!-- ===================== CUSTOM BANNER ===================== -->
 <!-- ===================== CUSTOM BANNER ===================== -->
 <p align="center">
-  <img src="https://i.ibb.co/bgqGM8X9/your-image.png" alt="Kusaraju AIML & Analytics Banner"/>
+  <img 
+    src="https://i.ibb.co/bgqGM8X9/your-image.png"
+    alt="Kusaraju AIML & Analytics Banner"
+    width="100%"
+  />
 </p>
 
 ---
