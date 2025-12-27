@@ -2,7 +2,7 @@
 <!-- ===================== CUSTOM BANNER ===================== -->
 <p align="center" style="margin:0; padding:0;">
   <img
-    src="https://i.ibb.co/KjR8p3Wv/lienkedin.png"
+    src="https://i.ibb.co/LhxCCNRr/download.png"
     alt="Kusaraju | AIML & Analytics"
     style="width:100%; display:block;"
   />
