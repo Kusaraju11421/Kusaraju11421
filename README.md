@@ -1,10 +1,10 @@
 <!-- ===================== CUSTOM BANNER ===================== -->
 <!-- ===================== CUSTOM BANNER ===================== -->
-<p align="center">
+<p align="center" style="margin:0; padding:0;">
   <img
     src="https://i.ibb.co/bgqGM8X9/your-image.png"
     alt="Kusaraju | AIML & Analytics"
-    style="width:100%; max-width:100%; height:auto;"
+    style="width:100%; display:block;"
   />
 </p>
 
